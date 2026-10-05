@@ -1,0 +1,21 @@
+{
+  "Directional": {
+    "DiffuseLight": [ 0.5, 0.5, 0.5, 1.0 ],
+    "AmbientLight": [ 0.1, 0.1, 0.1, 1.0 ],
+    "SpecularLight": [ 0.8, 0.8, 0.8, 1.0 ],
+    "LightDir": [ 0.0, 5.0, -0.5 ]
+  },
+
+  "Material": {
+    "DiffuseMaterial": [ 1.0, 1.0, 1.0, 1.0 ],
+    "AmbientMaterial": [ 1.0, 0.5, 0.5, 1.0 ],
+    "SpecularMaterial": [ 1.0, 1.0, 1.0, 32.0 ],
+    "SpecPower": 10.0
+  },
+
+  "Spotlight": {
+    "SpotPos": [ 8.0, 5.0, 0.0 ],
+    "SpotDir": [ 0.0, 5.0, 0.0 ],
+    "SpotAngle": 2.0
+  }
+}

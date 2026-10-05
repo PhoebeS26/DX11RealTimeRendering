@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "Textures": {
+    "Crate": "Textures/Crate_COLOR.dds",
+    "Asphalt": "Textures/asphalt_COLOR.dds",
+    "Skybox": "Skybox/skybox.dds"
+  },
+
+  "GameObjects": [
+    {
+      "Name": "Sun",
+      "Type": "Cube",
+      "Texture": "Crate",
+      "WorldMatrix": "WorldSun",
+      "Transparent": false
+    },
+    {
+      "Name": "Planet",
+      "Type": "Cube",
+      "Texture": "Crate",
+      "WorldMatrix": "WorldPlanet",
+      "Transparent": true
+    },
+    {
+      "Name": "Pyramid",
+      "Type": "Pyramid",
+      "Texture": "Crate",
+      "WorldMatrix": "WorldMoon",
+      "Transparent": false
+    },
+    {
+      "Name": "Donut",
+      "Type": "OBJ",
+      "Model": "donut.obj",
+      "Texture": "Asphalt",
+      "WorldMatrix": "WorldMesh"
+    },
+    {
+      "Name": "Cylinder",
+      "Type": "OBJ",
+      "Model": "cylinder.obj",
+      "Texture": "Asphalt",
+      "WorldMatrix": "WorldCylinder"
+    }
+  ]
+}
