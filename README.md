@@ -25,6 +25,19 @@ The project includes custom rendering code, HLSL shaders, textured 3D objects, m
 * Transparency and blending
 * Depth and rasterizer state configuration
 
+## Controls
+
+### Camera Selection
+
+* **1** — Access static camera 1
+* **2** — Access static camera 2
+* **3** — Access the flying camera
+
+### Flying Camera
+
+* **WASD** — Move the flying camera
+* **Arrow Keys** — Look around with the flying camera
+
 ## Technical Skills
 
 **Languages**
@@ -70,4 +83,3 @@ This project gave me practical experience working with C++ and DirectX 11, parti
 It also helped me develop a better understanding of how different parts of a real-time rendering system work together.
 
 <img width="1259" height="752" alt="image" src="https://github.com/user-attachments/assets/cd16c915-1133-472f-9b6b-9cb13a0306e8" />
-
