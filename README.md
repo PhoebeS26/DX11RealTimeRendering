@@ -68,3 +68,6 @@ Key components include:
 This project gave me practical experience working with C++ and DirectX 11, particularly around the graphics pipeline, shaders, buffers, transformations, lighting and rendering states.
 
 It also helped me develop a better understanding of how different parts of a real-time rendering system work together.
+
+<img width="1259" height="752" alt="image" src="https://github.com/user-attachments/assets/cd16c915-1133-472f-9b6b-9cb13a0306e8" />
+
